@@ -1,4 +1,8 @@
-La hoja de estilos
-Hay color de fondo
-Y negritas, de color rojo
-Cambios en la supuesta hoja de estilo
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:#00F;
+	font-weigth:bold;
+	color:#F00;
+	font-size:18px;
+}
